@@ -58,6 +58,9 @@
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="EditorChooseLookupItem" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
   <action id="EditorEnter">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl j" />
