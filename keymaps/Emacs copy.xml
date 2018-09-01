@@ -105,6 +105,6 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Vcs.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
 </keymap>
