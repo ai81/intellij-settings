@@ -28,6 +28,9 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl meta a" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
