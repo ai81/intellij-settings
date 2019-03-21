@@ -75,6 +75,7 @@
   <action id="GotoRelated">
     <keyboard-shortcut first-keystroke="ctrl alt home" />
     <keyboard-shortcut first-keystroke="meta alt up" />
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="InsertLiveTemplate">
