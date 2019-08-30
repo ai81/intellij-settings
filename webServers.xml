@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b9fe63c9-902f-411a-a799-de9aed528bf3" name="Remote (b9fe63c9-902f-411a-a799-de9aed528bf3)" url="http:///">
+        <fileTransfer host="antonio.sas.yp-c.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
