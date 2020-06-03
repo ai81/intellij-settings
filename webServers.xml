@@ -2,9 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b9fe63c9-902f-411a-a799-de9aed528bf3" name="Remote (b9fe63c9-902f-411a-a799-de9aed528bf3)" url="http:///">
-        <fileTransfer host="antonio.sas.yp-c.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer accessType="SFTP" sshConfigId="dd026e7c-2aba-44f0-983d-bd1b27b4db73" sshConfig="Remote (b9fe63c9-902f-411a-a799-de9aed528bf3)" />
       </webServer>
     </option>
   </component>
