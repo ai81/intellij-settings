@@ -1,9 +1,10 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="yql" type="PLAIN_TEXT" />
       <mapping ext="make" type="PLAIN_TEXT" />
+      <mapping ext="yql" type="PLAIN_TEXT" />
       <mapping ext="conf" type="XML" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
     </extensionMap>
   </component>
 </application>
