@@ -1,8 +1,9 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="antonio.sas.yp-c.yandex.net" id="d15db78e-4391-482b-aa2f-220cae1b5300" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Remote (b9fe63c9-902f-411a-a799-de9aed528bf3)" nameFormat="CUSTOM" username="antonio" />
-      <sshConfig host="antonio.sas.yp-c.yandex.net" id="6eea85ae-0b00-48cd-9ee3-d2b532e889d2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Remote (b9fe63c9-902f-411a-a799-de9aed528bf3)" nameFormat="CUSTOM" username="antonio" />
+      <sshConfig host="antonio.sas.yp-c.yandex.net" id="6eea85ae-0b00-48cd-9ee3-d2b532e889d2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="antonio.sas.yp-c.yandex.net" nameFormat="CUSTOM" username="antonio">
+        <option name="customName" value="antonio.sas.yp-c.yandex.net" />
+      </sshConfig>
     </configs>
   </component>
 </application>
