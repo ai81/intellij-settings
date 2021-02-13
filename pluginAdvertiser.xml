@@ -976,8 +976,8 @@
         <entry key="*.py">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -985,8 +985,8 @@
         <entry key="*.pyi">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -994,8 +994,8 @@
         <entry key="*.pyw">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1254,8 +1254,8 @@
         <entry key="*.ui">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1668,8 +1668,8 @@
         <entry key="buildout.cfg">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
