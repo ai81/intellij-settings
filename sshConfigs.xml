@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="antonio.sas.yp-c.yandex.net" id="6eea85ae-0b00-48cd-9ee3-d2b532e889d2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="antonio.sas.yp-c.yandex.net" nameFormat="CUSTOM" username="antonio">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="antonio.sas.yp-c.yandex.net" id="6eea85ae-0b00-48cd-9ee3-d2b532e889d2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="antonio.sas.yp-c.yandex.net" nameFormat="CUSTOM" username="antonio">
         <option name="customName" value="antonio.sas.yp-c.yandex.net" />
       </sshConfig>
     </configs>
