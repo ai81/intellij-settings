@@ -87,6 +87,9 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
+  <action id="NextWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl meta u" />
   </action>
