@@ -5,5 +5,14 @@
         <fileTransfer rootFolder="/home/antonio" accessType="SFTP" host="antonio.sas.yp-c.yandex.net" port="22" sshConfigId="6eea85ae-0b00-48cd-9ee3-d2b532e889d2" sshConfig="antonio.sas.yp-c.yandex.net" keyPair="true" />
       </webServer>
     </option>
+    <groups>
+      <group>
+        <name>Remote Development</name>
+        <mayChangeLevel>false</mayChangeLevel>
+        <servers>
+          <name value="antonio" />
+        </servers>
+      </group>
+    </groups>
   </component>
 </application>
